@@ -105,6 +105,9 @@ src/
   markdown-builder.ts  # assembles the final markdown document
   types.ts             # shared domain types
 ```
+###
+
+I have attached a instructions.md file that can be pasted into a Claude project to produce a structured report for an inputted youtube url.
 
 ## License
 
